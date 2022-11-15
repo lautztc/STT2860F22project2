@@ -12,43 +12,43 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: Randy Olson
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: Because in high school I was very interested in the biomedical field and the technology associated with it so I wanted to hear more about what he does for a living.
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Yes he does. That is his job title and he works with data and does data scientist things at work.
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: He took an AP computer science class in high school which is when he started to realize that he wanted to work with computers. Was a computer science major in college. Did an internship with a professor working with evolutionary algorithms. Went to graduate school at Michigan State University. He started working on AI projects in grad school and built AI robots. He eventually earned his PhD in data science. He wanted to improve his data skills and did that by completing multiple projects on his blog.
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: He fell into computer science in college. His advisor directed him toward computer science. He thought he would go into programming until he got into AI during his last year of college. Did an internship after college which influenced him to pursue graduate school. Before that he was a programmer for 1.5 years. After he earned his PhD he started a blog, found data sets, and started analyzing them. He met his current boss through Twitter and got his job offer on Twitter also. He accepted this position at a lab that his boss works for. The lab is at UPenn and is called the Epistasis Lab where he focuses on diseases and genetics.
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: AI robots and evolutionary algorithms. C++ and python are also common programs he uses.
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: The blog that he started was very interesting to me. He was able to communicate with multiple people and took their research finds to try and recommunicate back to them in a simpler way. He improved many individual aspects about himself through this blog including communication and writing. 
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: He talked about how he created a program that predicted the location of Waldo in the game "Where's Waldo." After he posted it on his blog he said that he did not expect it to blow up because it was kind of a joke or not very serious concept. He talked about how you still have to have fun with what you do and if you take life seriously all the time, you are going to miss out on the best parts.
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: He mentioned that it was hard for him to leave academia and put himself into the work force because he felt comfortable in the educational system. I definitely do identify with this as I have always been nervous at leaving the education system as I know it is something I do well in and it is comfortable for me.
 
 **Q10: Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
+ANSWER: Randy Olson knew for most of his education what he wanted to get into for a career and college degree. He pretty much knew he wanted to work with computers and data. On the other hand, my previous data scientist got into R and programming very late in her education, actually after she had finished her degrees. She decided she wanted to change her career path after she did an intership post-graduate.
 
 <hr>
 
